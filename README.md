@@ -2,8 +2,8 @@ This repository contains the expression data for 50 genes from 16 models, below 
 - Model id: Unique identifier for each model
 - gene_symbol: HGNC Gene symbol 
 - z_score: Z-score representing the gene expression
-- diagnosis: Tumor type diagnosied
-- platform_id: Platform used for sequencing the model
+- diagnosis: Patient diagnosis
+- platform_id: Platform used for obtaining gene expression value
 - chromosome: Chromosomal location of the gene
 - seq_start_position: Start position of the gene on the chromosome
 - seq_end_position:	End position of the gene on the chromosome
