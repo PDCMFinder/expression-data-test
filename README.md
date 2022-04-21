@@ -1,7 +1,7 @@
 This repository contains the expression data for 50 genes from 16 models, below is a brief description of each column in the dataset.
 - Model id: Unique identifier for each model
 - gene_symbol: HGNC Gene symbol 
-- z_score: gene expression value
+- z_score: Gene expression value
 - diagnosis: Patient diagnosis
 - platform_id: Platform used for obtaining gene expression value
 - chromosome: Chromosomal location of the gene
